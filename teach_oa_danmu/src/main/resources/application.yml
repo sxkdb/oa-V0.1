@@ -1,0 +1,7 @@
+server:
+  port: 9091
+spring:
+  data:
+    mongodb:                                  #mongodb\u914D\u7F6E
+      uri: mongodb://47.101.34.81:27017       #mongodb\u5730\u5740
+      database: teach_oa_danmu                     #mongodb\u6570\u636E\u5E93\u540D\u79F0
